@@ -1,0 +1,2 @@
+# Real-Time-Face-Recognition-Attendance-System-using-OpenCV
+The Real-Time Face Recognition Attendance System using OpenCV is a Python-based project that automates attendance using facial recognition. It detects and recognizes faces via webcam using the face_recognition and OpenCV libraries. Student attendance is recorded only if a specific faculty member is recognized first, ensuring supervision. 
